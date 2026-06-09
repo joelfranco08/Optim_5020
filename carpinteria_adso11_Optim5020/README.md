@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OptimAl 5020 – Sistema de Corte y Despiece
 
 ## Estructura del Proyecto
@@ -53,3 +54,7 @@ Abre `http://localhost:5000` en tu navegador.
 | `PORT`        | `5000`  | Puerto del servidor Flask          |
 | `FLASK_DEBUG` | `false` | Activa el modo debug de Flask      |
 | `CORS_ORIGIN` | `*`     | Origen permitido para CORS         |
+=======
+# Optim_5020
+proyecto de desarrollo de feria de adso 11
+>>>>>>> ea6ee59c444bc3f5da079ff5f8f323af93dd89e1
